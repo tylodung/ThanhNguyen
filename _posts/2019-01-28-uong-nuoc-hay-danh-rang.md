@@ -2,6 +2,7 @@
 published: true
 hidden: false
 title: Đánh răng hay uống nước trước sau khi ngủ dậy?
+image: danh-rang.jpg
 custom_excerpt: Ai cũng biết nên đánh răng sau giấc ngủ dài và uống một cốc nước để bổ sung năng lượng cho cơ thể sau 1 đêm, nhưng hầu như không ai biết trình tự thực hiện đúng của cả hai việc này.
 ---
 
@@ -17,7 +18,7 @@ Vì họ cho rằng như thế chẳng khác nào nuốt hết vi khuẩn dơ tr
 
 Vừa ngủ dậy và súc sạch miệng ngay chẳng khác nào bạn vừa tự mình đổ đi một lượng enzim tốt. Có rất nhiều lợi khuẩn có ích được sản sinh ra trong khoang miệng trong khoảng thời gian ngủ ban đêm. Và lợi khuẩn này có khả năng đánh bại hại khuẩn.
 
-Đánh răng hay uống nước trước sau khi ngủ dậy vào sáng sớm? Câu hỏi đến 90% người trả lời sai
+**Đánh răng hay uống nước trước sau khi ngủ dậy vào sáng sớm? Câu hỏi đến 90% người trả lời sai**
 
 Ai cũng biết nên đánh răng sau giấc ngủ dài và uống một cốc nước để bổ sung năng lượng cho cơ thể sau 1 đêm, nhưng hầu như không ai biết trình tự thực hiện đúng của cả hai việc này.
 
@@ -37,7 +38,7 @@ Vì việc đó vô hình chung sẽ làm thành phần bảo vệ trong kem đ�
 
 Đó là chưa nói đến việc, đánh răng rồi mới ăn sáng sẽ chẳng lợi gì, khi những mẫu vụn của buổi sáng lại tiếp tục bám vào răng, là nguyên nhân gây sâu răng.
 
-Vậy như thế nào là tốt nhất?
+**Vậy như thế nào là tốt nhất?**
 
 Theo các khuyến cáo từ nha sĩ, trình tự tốt nhất mỗi sáng ngủ dậy là bạn hãy uống một cốc nước ấm, sau đó hãy tiến hành vệ sinh răng miệng bằng cách súc nước muối. Uống nước ấm sẽ giúp đẩy các lợi khuẩn tốt vào dạ dày đi kèm với những lợi ích sau:
 
