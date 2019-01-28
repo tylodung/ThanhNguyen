@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: 7 Lợi Ích Tuyệt Vời Của Vỏ Chanh Mà Ít Người Biết Tới
+title: 7 Lợi Ích Tuyệt Vời Của Vỏ Chanh
 image: vo-chanh.jpg
 custom_excerpt: Chanh là một loại gia vị phổ biến được yêu thích trên khắp thế giới. Nhưng bạn có biết, chanh còn là một trong những loại thực phẩm mà bạn có thể sử dụng từng thành phần của nó – từ thịt đến vỏ.
 ---
@@ -11,13 +11,13 @@ Lớp vỏ chanh thậm chí còn có mùi tươi mát rất dễ chịu, có th
 
 Dưới đây là các ứng dụng tuyệt vời của vỏ chanh ít được biết đến.
 
-1. Làm Đẹp Và Cải thiện Sức khoẻ Làn Da
+**1. Làm Đẹp Và Cải thiện Sức khoẻ Làn Da**
 
 Vỏ chanh có nhiều lợi ích cho làn da của bạn. Axít trong vỏ chanh có thể giúp da sáng đẹp và mềm mai hơn rất nhiều.
 
 Hơn nữa, vỏ chanh rất tốt trong việc tẩy và loại bỏ các tế bào da chết, đồng thời kích thích sự phát triển da mới. Nó còn có tác dụng trị mụn trứng cá.
 
-Bạn có thể sử dụng vỏ chanh để làm đẹp da với các cách dưới đây:
+*Bạn có thể sử dụng vỏ chanh để làm đẹp da với các cách dưới đây:*
 
 Chà vỏ chanh tươi trên mặt. Đợi 10 phút, sau đó rửa sạch bằng nước ấm. Làm 3 hoặc 4 lần một tuần để có làn da sáng đẹp và mịn màng.
 
@@ -27,13 +27,13 @@ Xay vỏ chanh khô thành bột, sau đó thêm một ít nước để tạo r
 
 Lặp lại một lần mỗi ngày đảm bảo mụn trứng cá sẽ biến mất hoàn toàn.
 
-2. Làm Trà Chanh
+**2. Làm Trà Chanh**
 
 Thay vì bỏ vỏ, bạn có thể sử dụng nó để tạo ra cốc trà ngon và bổ dưỡng.
 
 Giàu vitamin C và các chất chống oxy hoá, vỏ chanh có thể giúp cải thiện việc tiêu hóa, giảm cân, cân bằng mức độ pH, tăng cường hệ thống miễn dịch và mang lại nhiều lợi ích cho gan.
 
-Cách làm trà vỏ chanh:
+*Cách làm trà vỏ chanh:*
 
 Cho 1 muỗng canh vỏ chanh thái mỏng (loại bỏ cùi xốp) vào cốc.
 
@@ -47,7 +47,7 @@ Thêm mật ong và khuấy kỹ.
 
 Uống trà trong khi vẫn ấm.
 
-3. Đuổi Kiến
+**3. Đuổi Kiến**
 
 Đối phó với kiến ​​là một nhiệm vụ mệt mỏi. Bây giờ, bạn có thể làm cho nhà bếp của bạn và các khu vực khác trong nhà không còn bóng dáng một con kiến nào nhờ sự giúp đỡ của vỏ chanh.
 
@@ -59,7 +59,7 @@ Thái vỏ chanh thành từng lát mỏng.
 
 Thay vỏ chanh vài ngày một lần cho đến khi bạn thấy không còn con kiến nào nữa.
 
-4. Làm Một Chất Tẩy Rửa Đa Năng
+**4. Làm Một Chất Tẩy Rửa Đa Năng**
 
 Vỏ chanh cũng có thể được sử dụng vào mục đích làm sạch. Tính axit của vỏ chanh một yếu tố tuyệt vời để khử trùng, loại bỏ dầu mỡ và các vết ố.
 
@@ -77,9 +77,9 @@ Cho chất lỏng chanh giấm này vào chai xịt sạch sẽ.
 
 Dung dịch tự chế này có thể khử trùng và làm sạch bất cứ dụng cụ nào trong gia đình bạn. Bạn có thể pha loãng nó với một lượng nước tương đương để sử dụng.
 
-Lưu ý: Không sử dụng chất làm sạch này trên bề mặt đá granite và đá cẩm thạch.
+*Lưu ý:* Không sử dụng chất làm sạch này trên bề mặt đá granite và đá cẩm thạch.
 
-5. Làm Trắng Răng Và Móng Tay
+**5. Làm Trắng Răng Và Móng Tay**
 
 Để làm sáng móng tay, vỏ chanh là một trong những bí mật tốt nhất. Tính axit của nó giúp giảm sự đổi màu. Ngoài ra, nó còn hiệu quả trong điều trị nhiễm trùng móng có thể gây ra sự đổi màu.
 
@@ -99,7 +99,7 @@ Rửa sạch răng và miệng của bạn với nước ấm.
 
 Thực hiện hai lần mỗi ngày cho đến khi bạn thấy hài lòng với kết quả.
 
-6. Tạo Hương Thơm Cho Máy Làm Ẩm
+**6. Tạo Hương Thơm Cho Máy Làm Ẩm**
 
 Không khí mùa đông rất khô, do đó việc sử dụng một máy tạo độ ẩm sẽ mang lại nhiều lợi ích cho cả bạn và gia đình. Trên thực tế, việc gia tăng độ ẩm làm giảm đáng kể khả năng của virus gây bệnh cúm trong không khí.
 
@@ -111,7 +111,7 @@ Thêm một số cây đinh hương và quế cây tùy ý thích.
 
 Đun sôi nước ở nhiệt độ thấp nhất để làm ẩm và tạo mùi hương trong không khí.
 
-7. Khử Mùi Và Làm Sạch Lò Vi Sóng
+**7. Khử Mùi Và Làm Sạch Lò Vi Sóng**
 
 Thực phẩm văng tung tóe trong lò vi sóng khiến chúng hôi hám, dính đầy dầu mỡ.  Lò vi sóng lại là một trong những thiết bị nhà bếp thường bị bỏ quên nhất.  
 
@@ -127,8 +127,7 @@ Tắt lò vi sóng, nhưng không mở cửa thêm 10 phút nữa.
 
 Sau đó, lau chùi bên trong bằng khăn ướt.
 
-Lời khuyên bổ sung:
-
+*Lời khuyên bổ sung:*
 
 Thêm vỏ chanh (đã loại bỏ phần ruột) vào đường nâu để giữ ẩm và dễ sử dụng.
 
