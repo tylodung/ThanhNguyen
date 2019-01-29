@@ -12,13 +12,13 @@ Có những loại trái cây nếu ăn quá nhiều sẽ có một tác dụng 
 
 Càng ăn thường xuyên bao nhiêu, càng bổ sung chất nhiều bấy nhiêu, không lo sợ thừa đường mà lại đẹp da, giữ dáng.
 
-1. Táo
+**1. Táo**
 
 Theo Đông y, táo có tính lạnh vị ngọt, bất kể là giống táo nào cũng đều có tác dụng bổ tim, ích khí, giải khát, giảm ho, bổ thận, dưỡng dạ dày, giải tỏa căng thẳng mệt mỏi.
 
 Đặc biệt, đối với những người thường xuyên uống rượu thì nên ăn nhiều táo vì táo có tác dụng giải rượu và thải độc rất tốt. Ăn táo có thể giúp giảm lượng đường trong máu, vì thế đặc biệt tốt với những người mắc bệnh tiểu đường.
 
-2. Đu đủ
+**2. Đu đủ**
 
 Theo Đông y, đu đủ là một loại quả có thành phần dinh dưỡng cực kỳ phong phú, trong đó chứa một lượng lớn các chất enzyme papain, men dịch vị, caroten… cùng với hơn 17 loại axit amin và nhiều thành phần dinh dưỡng đặc biệt khác.
 
@@ -28,13 +28,13 @@ Nghiên cứu cho thấy, chất enzyme papain có trong quả đu đủ có tá
 
 Ngoài ra, đu đủ còn có tác dụng kháng khuẩn, chống viêm, giảm mỡ máu khá hiệu quả.
 
-3. Bưởi
+**3. Bưởi**
 
 Theo nghiên cứu cho thấy, bưởi là loại trái cây được khuyên là nên ăn nhiều, bởi vì bưởi có có tác dụng làm giảm lượng đường trong máu. Theo đông y, quả bưởi có tính hàn vị ngọt, hơi chua, có tác dụng tiêu đờm, hỗ trợ tiêu hóa, hỗ trợ điều trị các chứng bệnh phù nề, viêm nhiễm…
 
 Đặc biệt những người mắc bệnh tiểu đường càng nên ăn bưởi, vì trong bưởi có chứa một lượng lớn thành phần insulin, không chỉ có tác dụng giảm lượng đường trong máu mà còn có tác dụng bảo vệ tim mạch.
 
-4. Ổi
+**4. Ổi**
 
 Quả ổi là một loại trái cây nhiệt đới nổi tiếng. Khi quả chín màu xanh nhạt, thịt ổi dày ngọt và mát, là loại quả phổ biến và sản lượng cao ở Việt Nam.
 
@@ -42,7 +42,7 @@ Quả ổi là một loại trái cây nhiệt đới nổi tiếng. Khi quả c
 
 Ăn ổi thường xuyên có thể giúp bạn chống lão hóa, đào thải những độc tố ra khỏi cơ thể, thúc đẩy sự trao đổi chất, điều tiết chức năng sinh lý, tăng cường sức khỏe. Đặc biệt hơn nữa, ổi là một loại trái cây rất tốt đối với những người mắc bệnh tiểu đường.
 
-5. Cherry (Anh đào)
+**5. Cherry (Anh đào)**
 
 Quả anh đào cũng là một loại trái cây có lượng đường thấp, vì thế những ai sợ béo có thể chọn anh đào để thay thế các loại trái cây có hàm lượng đường cao khác.
 
