@@ -1,36 +1,36 @@
 ---
 published: true
 hidden: false
-title: Chuyên gia hướng dẫn cách ngủ trưa tốt nhất để chăm sóc gan Ai cũng nên áp dụng sớm!
+title: Chuyên gia hướng dẫn cách ngủ trưa tốt nhất để chăm sóc gan!
 image: 11-11-3.jpg
 custom_excerpt: Gan khỏe hay yếu nhờ vào giấc ngủ. Vì khi ngủ gan sẽ được tái tạo và phục hồi. Ngoài việc đi ngủ sớm, giấc ngủ trưa vô cùng quan trọng.
 ---
 
 Gan khỏe hay yếu nhờ vào giấc ngủ. Vì khi ngủ gan sẽ được tái tạo và phục hồi. Ngoài việc đi ngủ sớm, giấc ngủ trưa vô cùng quan trọng.
 
-Ngủ trưa là để dưỡng gan, ngủ thế nào mới là đúng cách?
+**Ngủ trưa là để dưỡng gan, ngủ thế nào mới là đúng cách?**
 
 Các bác sĩ cho rằng, không ngủ buổi trưa, làm hỏng buổi chiều. Ý nói rằng giấc ngủ ngắn ngủi đó mang lại cho cơ thể rất nhiều lợi ích. Nếu chịu khó ngủ, dù chỉ ít phút, bạn sẽ thấy rất khác biệt. Tuy nhiên, nếu ngủ quá lâu, khi thức dậy sẽ có cảm giác tê tay chân, đau đầu, chóng mặt, uể oải, thiếu năng lượng.
 
-Vậy, rốt cuộc thì nên ngủ trưa thế nào mới đúng? Đây là lời khuyên chung của các chuyên gia.
+**Vậy, rốt cuộc thì nên ngủ trưa thế nào mới đúng? Đây là lời khuyên chung của các chuyên gia.**
 
 Thời gian: Nên ngủ khoảng nửa giờ thích hợp nhất
 
 Thời gian ngủ trưa, không phải là lúc bạn cần phải ngủ cho “đã mắt” mà chỉ nên ngủ tối đa khoảng 30 phút. Nếu không đủ thời gian đó thì có nên ngủ không?
 
-Ngủ chợp mắt từ 10 đến 20 giây
+*Ngủ chợp mắt từ 10 đến 20 giây*
 
 Nhiều người vì lý do công việc, thường không thể đủ thời gian để nghỉ trưa, nhưng bạn hãy nhớ rằng, chỉ cần bạn mắt nhắm tại chỗ khoảng 10-20 giây thì cũng có thể mang lại những lợi ích không nhỏ cho sức khỏe.
 
 Khi bạn mệt mỏi, có thể ngay lập tức nhắm mắt, thư giãn hoàn toàn tâm trí, tập trung vào việc nghỉ ngơi, chỉ trong một vài chục giây ngắn ngủi cũng có thể thay đổi tình trạng mệt mỏi nhanh chóng, khôi phục lại tâm lý và tinh thần.
 
-Ngủ ngắn từ 2-5 phút
+*Ngủ ngắn từ 2-5 phút*
 
 Đừng đánh giá thấp một vài phút “nghỉ trưa vi diệu” này, bởi dù vài phút nhưng bạn cũng nên thử xem hiệu ứng tuyệt vời trong việc loại bỏ sự mệt mỏi.
 
 Nhiều người làm việc trong thời gian dài, đặc biệt là nhân viên văn phòng khiến bạn đau đầu, bộ nhớ suy giảm dần dần, thường hay nhớ nhớ quên quên, thiếu tập trung. Tại thời điểm này, hãy “nhắm mắt làm ngơ” nghỉ ngơi một vài phút, cho đến khi cơ thể thư giãn, bình tĩnh, sẽ tạo ra cảm hứng mới, nâng cao hiệu quả làm việc.
 
-Ngủ trưa từ 20 đến 30 phút
+*Ngủ trưa từ 20 đến 30 phút*
 
 Nếu bạn cần phải tăng cường trí nhớ trong dài hạn, sự lựa chọn giấc ngủ trưa tốt nhất chính là khoảng thời gian này. Ngủ đủ 30 phút là thời gian tốt nhất để hỗ trợ và chăm sóc cho gan. Thời gian này đủ để gan nhận lại những lợi ích điều hòa và lấy lại sự cân bằng.
 
@@ -38,7 +38,7 @@ Bởi vì sau khi ăn trưa, máu trong cơ thể tập trung vào đường ti�
 
 Do đó, hãy tranh thủ thời gian để ngủ trưa tốt nhất trong khoảng thời gian từ 20 -30 phút, như vậy sẽ duy trì tốt chức năng gan, tăng cường tiêu hóa, duy trì sự cân bằng và khỏe mạnh.
 
-Ngủ dài từ 40-90 phút
+*Ngủ dài từ 40-90 phút*
 
 Đây thời gian ngủ trưa hơi dài, dù bạn cảm thấy “đã” hơn đó lại là thói quen không lành mạnh. Bởi vì thời gian ngủ trưa quá 30 phút, cơ thể sẽ đi vào giấc ngủ sâu, khoảng 45 phút sau nếu tỉnh dậy bản sẽ cảm thấy đau đầu và các triệu chứng mệt mỏi ủ rũ khác.
 
@@ -56,17 +56,17 @@ Bạn có thể chọn một chiếc gối chữ U, nằm dựa ra ghế dài ho
 
 Nếu không còn sự lựa chọn khác, bạn có thể ôm một chiếc gối và ngồi ngay trên ghế để giảm bớt áp lực cẳng tay. Sau giờ nghỉ trưa, nên làm một số bài tập kéo dài các cơ để giảm áp lực và giúp lưu thông máu.
 
-Những nhóm người phải chú ý đến giấc ngủ trưa
+**Những nhóm người phải chú ý đến giấc ngủ trưa**
 
-Người bị thừa cân, huyết áp thấp, rối loạn hệ tuần hoàn
+*Người bị thừa cân, huyết áp thấp, rối loạn hệ tuần hoàn*
 
 Đối với nhóm người có thể trạng thừa cân, huyết áp thấp, bệnh nhân bị rối loạn hệ thống tuần hoàn nghiêm trọng, nếu ngủ ngay sau bữa ăn có thể khiến cho mạch máu dưới da bị giãn nở, lưu lượng máu hoạt động mạnh hơn nếu kết hợp với việc máu dồn vào hệ tiêu hóa sau khi ăn dẫn đến giảm lượng máu lên não, từ đó có thể dẫn đến bị thiếu máu não, có thể mắc nguy cơ gây nhồi máu não.
 
-Người cần đổi giờ ngủ trưa
+*Người cần đổi giờ ngủ trưa*
 
 Nếu bạn ngủ trưa xong mà có cảm giác bị chóng mặt, nhức đầu, mệt mỏi, tim mạch nhanh, có thể thay đổi thời gian ngủ ngắn trong 30 phút trước khi ăn trưa. Ngủ xong dậy ăn sau cũng là giải pháp để phòng tránh các bệnh nhồi máu não, đồng thời có thể nghỉ ngơi để loại bỏ sự mệt mỏi.
 
-Người đáng uống thuốc hạ huyết áp
+*Người đáng uống thuốc hạ huyết áp*
 
 Nếu bạn đang phải uống thuốc hạ huyết áp thì không nên ngủ trưa ngay sau đó. Để an toàn, uống thuốc xong nên ngồi nghỉ khoảng từ 15-30 phút mới được nằm ngủ để không ảnh hưởng đến quá trình hấp thụ thuốc và phòng tránh buồn ngủ.
 
