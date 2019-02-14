@@ -2,6 +2,7 @@
 published: true
 hidden: false
 title: Mắc 5 thói quen khi ngủ này bạn nên xem lại sức khỏe
+image: 2.jpg
 custom_excerpt: Cơ thể sẽ tranh thủ lúc bạn ngủ say giấc mà phát ra những tín hiệu rõ ràng nhất về sức khỏe đấy!
 ---
 Cơ thể sẽ tranh thủ lúc bạn ngủ say giấc mà phát ra những tín hiệu rõ ràng nhất về sức khỏe đấy!
