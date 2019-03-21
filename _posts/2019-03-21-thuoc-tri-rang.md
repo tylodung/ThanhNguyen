@@ -1,6 +1,10 @@
 ---
 published: true
+hidden: false
 title: Bài thuốc quá dễ trị răng lung lay ê buốt, tới già răng vẫn không rụng
+image: rang-khac.jpg
+custom_excerpt: Bài thuốc chữa đau răng từ rượu cau bắt nguồn từ thời ông cha ta, có nguồn gốc ở Việt Nam.
+
 ---
 
 Đau răng, sâu răng hoặc răng lung lay, ê buốt là nỗi khổ của hầu hết mọi người ở đủ mọi độ tuổi. Vì thế, mọi nhà nên chuẩn bị hũ rượu này để xử lí các vấn đề về răng ngay tại nhà.
