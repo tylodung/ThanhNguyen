@@ -1,6 +1,8 @@
 ---
 published: true
+hidden: false
 title: Tạm biệt gương mặt tròn vo với 9 bài tập giảm béo
+image: mat-map.jpg
 custom_excerpt: Tuy nhiên, không phải ai cũng có thể dễ dàng loại bỏ mỡ mặt bằng cách tập thể dục. Nhiều người cho biết dù có có tập thể dục nhiều thế nào, họ vẫn không thể giảm béo mặt được, đặc biệt là đám mỡ thừa đáng ghét trên má làm khuôn mặt trở nên phúng phính, tròn trịa.
 ---
 
@@ -12,7 +14,7 @@ Mặc dù nghe thì có vẻ khó khăn nhưng không phải hoàn toàn hết h
 
 Đây là một vài bài tập thể dục cho cơ mặt mà bạn có thể thực hiện để loại bỏ đôi má phúng phính và giảm béo mặt nhanh nhất.
 
-1. Xoay Tròn Quanh Gò Má
+**1. Xoay Tròn Quanh Gò Má**
 
 Bài tập này là sự kết hợp của những động tác “yoga” cho cơ mặt khá phổ biến. Nó tác động lên lớp mỡ ở vùng má.
 
@@ -30,7 +32,7 @@ Tiếp tục mát xa như vậy trong vòng 60s.
 
 Thực hiện động tác này bất cứ khi nào bạn có thể. Ít nhất là 2 lần/ngày.
  
-2. Thổi Không Khí Bằng Miệng
+**2. Thổi Không Khí Bằng Miệng**
 
 Động tác này sẽ tác động lên các cơ ở xung quanh miệng và má, bắt các cơ phải hoạt động giúp cho mặt thon gọn hơn. 
 
@@ -48,7 +50,7 @@ Lặp lại các bước trên 10-20 lần.
 
 Thực hiện bài tập này ít nhất 2 lần/ngày.
  
-3. Bài Tập “Mặt Cá”
+**3. Bài Tập “Mặt Cá”**
 
 Đây là bài tập dễ và hoàn hảo cho bạn để làm thon gọn cơ má bằng cách kéo giãn các cơ mặt qua đó kích thích và nâng cơ giúp cho gương mặt trở nên thon gọn hơn.
 
@@ -60,7 +62,7 @@ Lặp lại 10 cái trong một lần tập.
 
 Thực hiện động tác này nhiều nhất có thể trong ngày. Ít nhất là hai lần một ngày
  
-4. Bài Tập “Miệng Cá”
+**4. Bài Tập “Miệng Cá”**
 
 Đây là động tác trái ngược hoàn toàn với bài tập trên, đòi hỏi bạn phải hoạt động kích thích các cơ mặt theo chiều ngược lại.
 
@@ -76,7 +78,7 @@ Thực hiện động tác 10 lần/chu kỳ.
 
 Thực hiện động tác này nhiều nhất có thể trong ngày. Ít nhất là hai chu kỳ một ngày.
  
-5. Bài Tập“Kéo & Cười”
+**5. Bài Tập “Kéo & Cười”**
 
 Động tác này yêu cầu bạn phải đẩy má lên một cách nhẹ nhàng và cười thật tươi để kéo căng các cơ và ngăn mỡ tích tụ trên khuôn mặt.
 
@@ -92,7 +94,7 @@ Thư giãn tay cho đỡ mỏi và thực hiện động tác 5 cái mỗi lần
 
 Thực hiện 2 lần mỗi ngày.
 
-6. Bài Tập Thè Lưỡi
+**6. Bài Tập Thè Lưỡi**
 
 Bài tập này có tác dụng làm tăng tính dẻo dai và linh hoạt của các cơ trên khuôn mặt, đồng thời giảm mỡ mặt.
 
@@ -104,7 +106,7 @@ Lặp lại 20 cái mỗi lần.
 
 Thực hiện động tác này nhiều nhất có thể trong ngày. Ít nhất là hai lần một ngày.
  
-7. Bài Tập “Nâng cằm”
+**7. Bài Tập “Nâng cằm”**
 
 Một trong những điều tồi tệ nhất khi có mỡ thừa tích tụ trên khuôn mặt, đó là chúng thường tập trung ở phần xung quanh cằm và cổ. Cằm là nơi thể hiện rõ nhất sự hình thành của mỡ gấp hai, gấp ba lần các vùng khác trên cơ thể.
 
@@ -114,7 +116,7 @@ Lặp lại 20 lần.
 
 Thực hiện động tác này nhiều nhất có thể trong ngày. Ít nhất là hai lần một ngày.
  
-8. Động Tác Mím Môi
+**8. Động Tác Mím Môi**
 
 Động tác này sẽ kéo giãn cơ hàm và cằm, bắt chúng hoạt động, đánh tan và giảm dần đám mỡ thừa tích tụ.
 
@@ -128,7 +130,7 @@ Lặp lại 20 lần động tác này
 
 Thực hiện động tác này nhiều nhất có thể trong ngày. Ít nhất là hai lần một ngày.
  
-9. Động tác “Quay đầu”
+**9. Động tác “Quay đầu”**
 
 Đây là bài tập bắt các cơ cho toàn bộ phần đầu, đặc biệt là vùng cằm và hàm.
 
@@ -148,7 +150,7 @@ Thực hiện động tác này 2 lần/ngày
 
 Những động tác trên khá nhẹ nhàng vì vậy mà bạn có thể thực hiện bao nhiêu lần tùy theo mong muốn của mình. Nếu bạn muốn sở hữu một gương mặt thon gọn rạng rỡ, còn chần chờ gì nữa mà không bắt tay thực hiện ngay nhỉ?
 
-LỜI KHUYÊN CHO BẠN:
+*LỜI KHUYÊN CHO BẠN:*
 
 Cắt giảm lượng thức ăn nạp vào cơ thể, thực phẩm chiên và các loại thực phẩm có hàm lượng Natri cao làm cơ thể và mặt sưng phù nước. Ăn nhiều thực phẩm sạch, ít qua chế biến và thực phẩm giàu chất xơ. Các thực phẩm như rau xanh và hoa quả rất cần thiết cho quá trình giảm cân. Một chế độ ăn uống lành mạnh là chìa khóa để giảm béo cả cơ thể nói chung và làm cho khuôn mặt thon gọn hơn nói riêng.
 
